@@ -13,7 +13,6 @@ span {
 
 .second-row {
     display: flex;
-    margin-bottom: 300px;
     justify-content: center;
     height: 120px;
     line-height: 120px;
@@ -21,7 +20,7 @@ span {
     border-bottom: 1px solid grey;
 }
 
-img {
+header img {
     height: 80px;
     margin-top: 15px;
 }
@@ -42,6 +41,9 @@ a {
 .comics {
     border-bottom: 7px solid rgb(0, 119, 255);
     height: 120px;
+}.jumbotron img {
+    height: 400px;
+    width: 100%;
 }footer {
     height: 120px;
     line-height: 120px;
