@@ -41,9 +41,9 @@ a {
 .comics {
     border-bottom: 7px solid rgb(0, 119, 255);
     height: 120px;
-}.jumbotron img {
+}.jumbotron {
     height: 400px;
-    width: 100%;
+    background-image: url(/images/jumbotron.jpg?1b0a3671766964a4114f90322970b124);
 }footer {
     height: 120px;
     line-height: 120px;
@@ -58,7 +58,7 @@ a {
     color: white;
 }
 
-span {
+footer span {
     border: 3px solid rgb(0, 119, 255);
     height: 30px;
     width: 130px;
