@@ -3,7 +3,7 @@
 
 <!-- qui inserirò i conenuti della pagina esclusi le parti fisse per tutto il sito -->
 @section('content')
-    <h1>
-        inserire la parte della Comics
-    </h1>
+    <div class="jumbotron">
+        <img src=" {{ asset('img/jumbotron.jpg') }} " alt="">
+    </div>
 @endsection
